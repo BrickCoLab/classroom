@@ -8,11 +8,15 @@
     </video>
 </div>
 
-[BrickCoLab](https://brickcolab.com) is a collection of services that use LEGO&reg; bricks to create engaging ice breakers while building community, communication, and critical thinking skills.
+[BrickCoLab](https://brickcolab.com) is a collection of services that use LEGO&reg; bricks to create engaging ice breakers while building community, communication, and critical thinking skills. We have lots of LEGO&reg; bricks!
+
+![LEGO Closet](images/closet.png)
 
 ## BrickCoLab Classroom Activities
 
 Our activities are designed to integrate directly into your classroom. Work with us to schedule a session and choose an experience that best fits your learning objectives.
+
+![LEGO Room](images/room.png)
 
 ### Ice Breakers
 
@@ -36,6 +40,8 @@ A custom-designed challenge where students are given a problem and must construc
 #### Build & Code Race
 Students are given a remote-controlled LEGO&reg; car, an Xbox controller, and a section of racetrack. They can modify both the car and track using LEGO&reg; bricks and improve performance through code optimization. The activity concludes with a series of races.
 
+![Build, Code, Race](images/race.png)
+
 #### Introduction to Code
 An introductory coding session where students learn using [Scratch](https://scratch.mit.edu/) or [Python](https://www.python.org/). Participants build and program simple LEGO&reg; devices such as parking gates, remote-controlled cars, or interactive puzzles.
 
@@ -48,9 +54,13 @@ Short, 15-minute activities that are perfect for starting a class:
 - Tetris Puzzle  
 - Build a Duck  
 
+![Three C's](images/three.png) ![Tetris Puzzle](images/tetris.png) ![Towers](images/tower.png)
+
 ### LEGO&reg; Escape Room
 
-A LEGO&reg;-based escape room set on an alien planet. Participants must use an Xbox controller to navigate a Mars rover back to the command centre before the planet explodes.
+[Lystex]() is a LEGO&reg;-based escape room set on an alien planet. Participants must use an Xbox controller to navigate a Mars rover back to the command centre before the planet explodes.
+
+![Lystex](images/lystex.png)
 
 > Explore more details on each activity on the [Activities](https://activities.codeadam.ca/) page.
 
