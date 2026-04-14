@@ -10,6 +10,8 @@
 
 ---
 
+## What is BrickCoLab
+
 We have lots of LEGO&reg; bricks! 
 
 [BrickCoLab](https://brickcolab.com) is a collection of services that use LEGO&reg; bricks to create engaging activities to promote  community, communication, and critical thinking. 
