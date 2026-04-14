@@ -8,6 +8,8 @@
     </video>
 </div>
 
+<br>
+
 [BrickCoLab](https://brickcolab.com) is a collection of services that use LEGO&reg; bricks to create engaging ice breakers while building community, communication, and critical thinking skills. We have lots of LEGO&reg; bricks!
 
 ![LEGO Closet](images/closet.png)
