@@ -2,7 +2,7 @@
 
 <div style="aspect-ratio: 16/9; width: 100%; max-width: 800px; margin: auto;">
     <video style="width: 100%; height: 100%; object-fit: contain;" controls>
-        <source src="videos/brickcolab-stock.mp4" type="video/mp4">
+        <source src="videos/demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
@@ -50,6 +50,8 @@ We offer a series of 15-minute activities that are perfect to start a class:
 ### LEGO&reg; Escape Room
 
 We offer a LEGO&reg; escape room experience. Set on an alien planet, participants must use an Xbox controller to navigate a Mars rover back to the command centre before the planet explodes.
+
+> Check out my [Activities](https://activities.codeadam.ca/) page for more details on each activity. 
 
 <small>LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
 
