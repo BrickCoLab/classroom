@@ -10,54 +10,54 @@
 
 ---
 
-## What is BrickCoLab
+## What is BrickCoLab?
 
-We have lots of LEGO&reg; bricks! 
-
-[BrickCoLab](https://brickcolab.com) is a collection of services that use LEGO&reg; bricks to create engaging activities to promote  community, communication, and critical thinking. 
-
-We can custom design an activity for your students or adapt one of the existing activities below.
+[BrickCoLab](https://brickcolab.com) offers a collection of engaging activities that use LEGO&reg; bricks to promote community, effective communication, and critical thinking. 
 
 ![LEGO Closet](images/closet.png)
 
+We have lots of LEGO&reg; bricks! 
+
 ## BrickCoLab Classroom Activities
 
-Our activities are designed to integrate directly into your classroom. Work with us to schedule a session and choose an experience that best fits your learning objectives.
+Activities are designed to be integrated directly into your classroom as an icebreaker or full class hackathon. Reach out to schedule a session and choose an experience that best fits your learning objectives.
 
 ![LEGO Room](images/room.png)
+
+Choose from the prepared activities outlined below, or request a custom activity designed for your students and program content. 
 
 ### Ice Breakers
 
 A series of team-building activities designed for early-semester engagement and group formation.
 
 #### Building Competitions
-Students are placed in groups, given a bin of LEGO&reg; bricks, and a challenge. Results are showcased and voted on to determine a winning team. Past challenges include building the tallest freestanding structure and creating the best artistic design.
+Students are placed in groups, given a bin of LEGO&reg; bricks, and a challenge. Results are showcased and voted on to determine a winning team. Past challenges include building the tallest freestanding structure or creating the best artistic design.
 
 #### Blind Build
-A communication-focused activity where students are split into groups. One group receives instructions for a small LEGO&reg; kit, while the other receives only the bricks. Using verbal or limited communication methods, they must work together to complete the build. Results are often both impressive and entertaining.
+A communication-focused activity where students are split into groups of builders and callers. Callers receive instructions for a small LEGO&reg; kit, while the builder are given the bricks. Using verbal or limited communication methods, they must work together to complete the build. Results are often both impressive and entertaining.
 
-> Warning: competitions can get surprisingly competitive!
+> Warning: activities can get surprisingly competitive!
 
 ### Hackathons
 
-Hackathons are typically run as 2–5 hour sessions or full-day events and can be customized to align with your course content.
+Hackathons are typically run as a two to five hour sessions and can be customized to align with your course content.
 
 #### Build a Solution
-A custom-designed challenge where students are given a problem and must construct a solution using LEGO&reg; bricks. Examples include designing a library of the future, building a control panel, or exploring solutions to real-world issues like poverty.
+A custom-design challenge where students are given a problem and must construct a solution using LEGO&reg; bricks. Examples include designing a library of the future, building a control panel, or exploring solutions to real-world issues like poverty.
 
-#### Build & Code Race
+#### Build, Code, Race
 Students are given a remote-controlled LEGO&reg; car, an Xbox controller, and a section of racetrack. They can modify both the car and track using LEGO&reg; bricks and improve performance through code optimization. The activity concludes with a series of races.
 
 ![Build, Code, Race](images/race.png)
 
 #### Introduction to Code
-An introductory coding session where students learn using [Scratch](https://scratch.mit.edu/) or [Python](https://www.python.org/). Participants build and program simple LEGO&reg; devices such as parking gates, remote-controlled cars, or interactive puzzles.
+An introduction to coding session where students learn coding basics using [Scratch](https://scratch.mit.edu/) or [Python](https://www.python.org/). Participants build and program simple LEGO&reg; devices such as parking gates, remote-controlled cars, or interactive puzzles.
 
 ### Brain Teasers
 
 Short, 15-minute activities that are perfect for starting a class:
 
-- Cube Puzzle  
+- Cube Puzzle
 - Tower Puzzle  
 - Tetris Puzzle  
 - Build a Duck  
@@ -66,7 +66,7 @@ Short, 15-minute activities that are perfect for starting a class:
 
 ### LEGO&reg; Escape Room
 
-[Lystex]() is a LEGO&reg;-based escape room set on an alien planet. Participants must use an Xbox controller to navigate a Mars rover back to the command centre before the planet explodes.
+[Lystex](https://lystex.codeadam.ca/) is a LEGO&reg;-based escape room set on an alien planet. Participants must use an Xbox controller to navigate a Mars rover back to the command centre before the planet explodes.
 
 ![Lystex](images/lystex.png)
 
