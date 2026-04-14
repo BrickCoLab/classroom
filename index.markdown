@@ -1,6 +1,8 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-<div style="aspect-ratio: 16/9; width: 100%; max-width: 800px; margin: auto;">
+![BrickCoLab](https://cdn.brickcolab.com/images@1.0.0/brickcolab-logo-coloured-horizontal.png)
+
+<div style="aspect-ratio: 16/9; width: 100%; max-width: 1200px; margin: auto;">
     <video style="width: 100%; height: 100%; object-fit: contain;" controls>
         <source src="videos/demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
