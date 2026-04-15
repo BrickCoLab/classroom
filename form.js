@@ -5,6 +5,8 @@ alert('loadled');
   
 document.getElementById('contactForm').addEventListener('submit', async function(e) {
 
+  alert('clicked');
+
   e.preventDefault();
 
   let valid = true;
