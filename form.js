@@ -1,4 +1,6 @@
 
+document.addEventListener("DOMContentLoaded", () => {
+
 document.getElementById('contactForm').addEventListener('submit', async function(e) {
 
   e.preventDefault();
@@ -60,4 +62,6 @@ document.getElementById('contactForm').addEventListener('submit', async function
   } catch (error) {
       alert('There was an error sending your message.');
   }
+});
+
 });
