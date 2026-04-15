@@ -13,7 +13,7 @@
 
 ## What is BrickCoLab?
 
-[BrickCoLab](https://brickcolab.com) offers a collection of engaging activities that use LEGO&reg; bricks to promote community, effective communication, and critical thinking. 
+[BrickCoLab](https://brickcolab.com) is a team building project that offers a collection of engaging activities that use LEGO&reg; bricks to promote community, effective communication, and critical thinking. These activities have been optimized to run with students in the classroom enviroment. 
 
 ![LEGO Closet](images/closet.png)
 
@@ -76,6 +76,8 @@ Short, 15-minute activities that are perfect for starting a class:
 > <small>LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
 
 ---
+
+
 
 <form id="contactForm" action="#" method="post" style="max-width:800px;margin:auto;">
     <label for="name">Name:</label><br>
