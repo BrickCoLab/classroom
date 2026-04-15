@@ -15,10 +15,6 @@
 
 [BrickCoLab](https://brickcolab.com) is a team building project that offers a collection of engaging activities that use LEGO&reg; bricks to promote community, effective communication, and critical thinking. These activities have been optimized to run with students in the classroom enviroment. 
 
-![LEGO Closet](images/closet.png)
-
-We have lots of LEGO&reg; bricks! 
-
 ## BrickCoLab Classroom Activities
 
 Activities are designed to be integrated directly into your classroom as an icebreaker or full class hackathon. Reach out to schedule a session and choose an experience that best fits your learning objectives.
