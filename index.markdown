@@ -95,3 +95,33 @@ Short, 15-minute activities that are perfect for starting a class:
 <a href="https://brickcolab.com">
 <img src="https://cdn.brickcolab.com/images@1.0.0/brickcolab-logo-coloured-horizontal.png" width="100">
 </a>
+
+<style>
+button {
+    background: #0366d6;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+button:hover {
+    background: #024ea2;
+}
+
+input, textarea {
+    border: 2px solid #e1e4e8;
+    background: #f6f8fa;
+    padding: 5px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    width: 100%;
+    font-size: 1em;
+}
+
+
+</style>
