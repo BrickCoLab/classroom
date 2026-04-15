@@ -57,8 +57,11 @@ document.addEventListener("DOMContentLoaded", () => {
             })
         });
         if (response.ok) {
-            // alert('Your message has been sent!');
-            document.getElementById('contactForm').reset();
+            // Remove the form and show thank you message
+            const form = document.getElementById('contactForm');
+            const thankYou = document.createElement('h3');
+            thankYou.textContent = 'Thank you! Your request has been submitted!';
+            form.parentNode.replaceChild(thankYou, form);
         } else {
             // alert('There was an error sending your message.');
         }
