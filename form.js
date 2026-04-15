@@ -1,42 +1,41 @@
 
 document.addEventListener("DOMContentLoaded", () => {
-
-alert('loadled');
   
 document.getElementById('contactForm').addEventListener('submit', async function(e) {
 
-  alert('clicked');
-
   e.preventDefault();
 
-  let valid = true;
-  // Clear previous errors
-  document.getElementById('nameError').textContent = '';
-  document.getElementById('emailError').textContent = '';
-  document.getElementById('messageError').textContent = '';
+    let valid = true;
+    // Clear previous error styles
+    document.getElementById('name').style.border = '';
+    document.getElementById('email').style.border = '';
+    document.getElementById('message').style.border = '';
 
   // Name validation
-  const name = document.getElementById('name').value.trim();
+  const nameInput = document.getElementById('name');
+  const name = nameInput.value.trim();
   if (!name) {
-      document.getElementById('nameError').textContent = 'Name is required.';
+      nameInput.style.border = '2px solid red';
       valid = false;
   }
 
   // Email validation
-  const email = document.getElementById('email').value.trim();
+  const emailInput = document.getElementById('email');
+  const email = emailInput.value.trim();
   const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
   if (!email) {
-      document.getElementById('emailError').textContent = 'Email is required.';
+      emailInput.style.border = '2px solid red';
       valid = false;
   } else if (!emailPattern.test(email)) {
-      document.getElementById('emailError').textContent = 'Invalid email address.';
+      emailInput.style.border = '2px solid red';
       valid = false;
   }
 
   // Message validation
-  const message = document.getElementById('message').value.trim();
+  const messageInput = document.getElementById('message');
+  const message = messageInput.value.trim();
   if (!message) {
-      document.getElementById('messageError').textContent = 'Message is required.';
+      messageInput.style.border = '2px solid red';
       valid = false;
   }
 
@@ -58,13 +57,13 @@ document.getElementById('contactForm').addEventListener('submit', async function
           })
       });
       if (response.ok) {
-          alert('Your message has been sent!');
+          // alert('Your message has been sent!');
           document.getElementById('contactForm').reset();
       } else {
-          alert('There was an error sending your message.');
+          // alert('There was an error sending your message.');
       }
   } catch (error) {
-      alert('There was an error sending your message.');
+      // alert('There was an error sending your message.');
   }
 });
 
