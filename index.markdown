@@ -9,6 +9,8 @@
     </video>
 </div>
 
+> <small>Music by: https://www.bensound.com/free-music-for-videos License code: 38VOT6UMWYZVD3FW Artist: : Yunior Arronte</small>
+
 ---
 
 ## What is BrickCoLab?
@@ -72,7 +74,7 @@ Short, 15-minute activities that are perfect for starting a class:
 
 ![Lystex](images/lystex.png)
 
-> Explore more details on each activity on the [Activities](https://activities.codeadam.ca/) page.
+Explore more details on each activity on the [Activities](https://activities.codeadam.ca/) page.
 
 > <small>LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
 
