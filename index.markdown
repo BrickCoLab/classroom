@@ -1,3 +1,4 @@
+<script src="form.js"></script>
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
 <img src="https://cdn.brickcolab.com/images@1.0.0/brickcolab-logo-coloured-horizontal.png" alt="BrickCoLab" height="100" style="margin-bottom: 10px;" />
@@ -82,9 +83,7 @@ Short, 15-minute activities that are perfect for starting a class:
         <label for="message">Message:</label><br>
         <textarea id="message" name="message" rows="5"></textarea><span id="messageError" style="color:red;margin-left:10px;"></span><br><br>
         <button type="submit">Send</button>
-    </form>
-    
-    <script src="form.js"></script>
+</form>
 
 <small>LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
 
