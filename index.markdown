@@ -13,7 +13,7 @@
 
 ## What is BrickCoLab?
 
-[BrickCoLab](https://brickcolab.com) is a team building project that offers a collection of engaging activities that use LEGO&reg; bricks to promote community, effective communication, and critical thinking. These activities have been optimized to run with students in the classroom enviroment. 
+[BrickCoLab](https://brickcolab.com) is a team building project that offers a collection of engaging activities that use LEGO&reg; bricks to promote community, effective communication, and critical thinking. These activities have been optimized to run with students in the classroom environment. 
 
 ## BrickCoLab Classroom Activities
 
