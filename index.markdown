@@ -75,7 +75,7 @@ Short, 15-minute activities that are perfect for starting a class:
 
 ---
 
-<form id="contactForm" action="#" method="post" style="max-width:400px;margin:auto;">
+<form id="contactForm" action="#" method="post" style="max-width:800px;margin:auto;">
     <label for="name">Name:</label><br>
     <input type="text" id="name" name="name">
     <br>
