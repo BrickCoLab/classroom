@@ -76,16 +76,19 @@ Short, 15-minute activities that are perfect for starting a class:
 ---
 
 <form id="contactForm" action="#" method="post" style="max-width:400px;margin:auto;">
-        <label for="name">Name:</label><br>
-        <input type="text" id="name" name="name"><span id="nameError" style="color:red;margin-left:10px;"></span><br><br>
-        <label for="email">Email:</label><br>
-        <input type="email" id="email" name="email"><span id="emailError" style="color:red;margin-left:10px;"></span><br><br>
-        <label for="message">Message:</label><br>
-        <textarea id="message" name="message" rows="5"></textarea><span id="messageError" style="color:red;margin-left:10px;"></span><br><br>
-        <button type="submit">Send</button>
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name">
+    <br>
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email">
+    <br>
+    <label for="message">Message:</label><br>
+    <textarea id="message" name="message" rows="5"></textarea>
+    <br>
+    <button type="submit">Send</button>
 </form>
 
-<small>LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
+> <small>LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
 
 ---  
 
