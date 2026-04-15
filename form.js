@@ -1,6 +1,8 @@
 
 document.addEventListener("DOMContentLoaded", () => {
 
+alert('loadled');
+  
 document.getElementById('contactForm').addEventListener('submit', async function(e) {
 
   e.preventDefault();
