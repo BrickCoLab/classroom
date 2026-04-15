@@ -73,6 +73,8 @@ Short, 15-minute activities that are perfect for starting a class:
 
 > Explore more details on each activity on the [Activities](https://activities.codeadam.ca/) page.
 
+> <small>LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
+
 ---
 
 <form id="contactForm" action="#" method="post" style="max-width:800px;margin:auto;">
@@ -87,8 +89,6 @@ Short, 15-minute activities that are perfect for starting a class:
     <br>
     <button type="submit">Send</button>
 </form>
-
-> <small>LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
 
 ---  
 
