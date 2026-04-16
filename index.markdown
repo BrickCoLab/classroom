@@ -35,11 +35,13 @@ A series of team-building activities designed for early-semester engagement and 
 
 Students are placed in groups, given a bin of LEGO&reg; bricks, and a challenge. Results are showcased and voted on to determine a winning team. Past challenges include building the tallest freestanding structure or creating the best artistic design.
 
-![HLO Collaboration](images/hlo-collaboration.png)
+![HLO Collaboration](images/hlo-collaboration.png) ![HLO Leadership](images/hlo-leadership.png)
 
 #### Blind Build
 
 A communication-focused activity where students are split into groups of builders and callers. Callers receive instructions for a small LEGO&reg; kit, while the builders are given the bricks. Using verbal or limited communication methods, they must work together to complete the build. Results are often entertaining and comical.
+
+![HLO Collaboration](images/hlo-collaboration.png) ![HLO Communication](images/hlo-communication.png)
 
 > Warning: activities can get surprisingly competitive!
 
@@ -51,15 +53,21 @@ Hackathons are typically run as a one or two day sessions and can be customized 
 
 A custom-design challenge where students are given a problem and must construct a solution using LEGO&reg; bricks. Examples include designing a library of the future, building a control panel, or exploring solutions to real-world issues like poverty.
 
+![HLO Critical Thinking](images/hlo-critical.png) ![HLO Innovation](images/hlo-innovation.png)
+
 #### Build, Code, Race
 
 Students are given a remote-controlled LEGO&reg; car, an Xbox controller, and a section of racetrack. They can modify both the car and track using LEGO&reg; bricks and improve performance through code optimization. The activity concludes with a series of races.
 
-![Build, Code, Race](images/race.png)
+![HLO Digital Fluency](images/hlo-digital.png) ![HLO Collaboration](images/hlo-collaboration.png) ![HLO Systems Thinking](images/hlo-systems.png)
+
+![Build, Code, Race](images/race.png) ![HLO Systems Thinking](images/hlo-systems.png)
 
 #### Introduction to Code
 
 An introduction to coding session where students learn coding basics using [Scratch](https://scratch.mit.edu/) or [Python](https://www.python.org/). Participants build and program simple LEGO&reg; devices such as parking gates, remote-controlled cars, or interactive puzzles.
+
+![HLO Digital Fluency](images/hlo-digital.png) ![HLO Critical Thinking](images/hlo-critical.png) ![HLO Strategic Problem Solving](images/hlo-strategic.png)
 
 ### Brain Teasers
 
@@ -70,11 +78,15 @@ Short, 15-minute activities that are perfect for starting a class:
 - Tetris Puzzle  
 - Build a Duck  
 
+![HLO Critical Thinking](images/hlo-critical.png) ![HLO Strategic Problem Solving](images/hlo-strategic.png)
+
 ![Three C's](images/three.png) ![Tetris Puzzle](images/tetris.png) ![Towers](images/tower.png)
 
 ### LEGO&reg; Escape Room
 
 [Lystex](https://lystex.codeadam.ca/) is a LEGO&reg;-based escape room set on an alien planet. Participants must use an Xbox controller to navigate a Mars rover back to the command centre before the planet explodes.
+
+![HLO Collaboration](images/hlo-collaboration.png) ![HLO Strategic Problem Solving](images/hlo-strategic.png) ![HLO Leadership](images/hlo-leadership.png)
 
 ![Lystex](images/lystex.png)
 
