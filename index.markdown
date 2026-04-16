@@ -57,11 +57,11 @@ A custom-design challenge where students are given a problem and must construct 
 
 #### Build, Code, Race
 
+![Build, Code, Race](images/race.png)
+
 Students are given a remote-controlled LEGO&reg; car, an Xbox controller, and a section of racetrack. They can modify both the car and track using LEGO&reg; bricks and improve performance through code optimization. The activity concludes with a series of races.
 
-![HLO Digital Fluency](images/hlo-digital.png) ![HLO Collaboration](images/hlo-collaboration.png) ![HLO Systems Thinking](images/hlo-systems.png)
-
-![Build, Code, Race](images/race.png) ![HLO Systems Thinking](images/hlo-systems.png)
+![HLO Digital Fluency](images/hlo-digital.png) ![HLO Collaboration](images/hlo-collaboration.png) ![HLO Systems Thinking](images/hlo-systems.png) ![HLO Innovation](images/hlo-innovation.png)
 
 #### Introduction to Code
 
@@ -70,6 +70,8 @@ An introduction to coding session where students learn coding basics using [Scra
 ![HLO Digital Fluency](images/hlo-digital.png) ![HLO Critical Thinking](images/hlo-critical.png) ![HLO Strategic Problem Solving](images/hlo-strategic.png)
 
 ### Brain Teasers
+
+![Three C's](images/three.png) ![Tetris Puzzle](images/tetris.png) ![Towers](images/tower.png)
 
 Short, 15-minute activities that are perfect for starting a class:
 
@@ -80,15 +82,13 @@ Short, 15-minute activities that are perfect for starting a class:
 
 ![HLO Critical Thinking](images/hlo-critical.png) ![HLO Strategic Problem Solving](images/hlo-strategic.png)
 
-![Three C's](images/three.png) ![Tetris Puzzle](images/tetris.png) ![Towers](images/tower.png)
-
 ### LEGO&reg; Escape Room
+
+![Lystex](images/lystex.png)
 
 [Lystex](https://lystex.codeadam.ca/) is a LEGO&reg;-based escape room set on an alien planet. Participants must use an Xbox controller to navigate a Mars rover back to the command centre before the planet explodes.
 
 ![HLO Collaboration](images/hlo-collaboration.png) ![HLO Strategic Problem Solving](images/hlo-strategic.png) ![HLO Leadership](images/hlo-leadership.png)
-
-![Lystex](images/lystex.png)
 
 Explore more details on each activity on the [Activities](https://activities.codeadam.ca/) page.
 
