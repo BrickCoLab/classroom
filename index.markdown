@@ -19,6 +19,18 @@
 
 <table><tr>
 <td><img src="images/hlo-collaboration.png"><br>Collaboration</td>
+<td><img src="images/hlo-communication.png"><br>Communication</td>
+<td><img src="images/hlo-critical.png"><br>Critical Thinking</td>
+<td><img src="images/hlo-digital.png"><br>Digital Fluency</td>
+<td><img src="images/hlo-diversity.png"><br>EDIB</td>
+<td><img src="images/hlo-indigenous.png"><br>IWBKD</td>
+</tr><tr>
+<td><img src="images/hlo-innovation.png"><br>Innovation</td>
+<td><img src="images/hlo-leadership.png"><br>Leadership</td>
+<td><img src="images/hlo-professionalism.png"><br>Professionalism</td>
+<td><img src="images/hlo-strategic.png"><br>Problem Solving</td>
+<td><img src="images/hlo-sustainability.png"><br>Sustainability</td>
+<td><img src="images/hlo-systems.png"><br>Systems Thinking</td>
 </tr>
 </table>
 
