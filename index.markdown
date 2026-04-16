@@ -17,6 +17,11 @@
 
 [BrickCoLab](https://brickcolab.com) is a team building project that offers a collection of engaging activities that use LEGO&reg; bricks to promote collaboration, effective communication, critical thinking, and strategfic problem solving. Under this classroom initiative, these activities have been optimized to run in the classroom environment and emphasize the [Humber Learning Outcomes](https://humber.ca/myemployabilityjourney/). 
 
+<table><tr>
+<td><img src="images/hlo-collaboration.png"><br>Collaboration</td>
+</tr>
+</table>
+
 > Check out the [BrickCoLab](https://brickcolab.com/) website for corporate team building.
 
 ## BrickCoLab Classroom Activities
