@@ -15,7 +15,9 @@
 
 ## What is BrickCoLab?
 
-[BrickCoLab](https://brickcolab.com) is a team building project that offers a collection of engaging activities that use LEGO&reg; bricks to promote collaboration, effective communication, critical thinking, and strategfic problem solving. These activities have been optimized to run with students in the classroom environment. 
+[BrickCoLab](https://brickcolab.com) is a team building project that offers a collection of engaging activities that use LEGO&reg; bricks to promote collaboration, effective communication, critical thinking, and strategfic problem solving. Under this classroom initiative, these activities have been optimized to run in the classroom environment and emphasize the [Humber Learning Outcomes](https://humber.ca/myemployabilityjourney/). 
+
+> Check out the [BrickCoLab](https://brickcolab.com/) website for corporate team building.
 
 ## BrickCoLab Classroom Activities
 
@@ -35,7 +37,7 @@ Students are placed in groups, given a bin of LEGO&reg; bricks, and a challenge.
 
 #### Blind Build
 
-A communication-focused activity where students are split into groups of builders and callers. Callers receive instructions for a small LEGO&reg; kit, while the builder are given the bricks. Using verbal or limited communication methods, they must work together to complete the build. Results are often both impressive and entertaining.
+A communication-focused activity where students are split into groups of builders and callers. Callers receive instructions for a small LEGO&reg; kit, while the builders are given the bricks. Using verbal or limited communication methods, they must work together to complete the build. Results are often entertaining and comical.
 
 > Warning: activities can get surprisingly competitive!
 
