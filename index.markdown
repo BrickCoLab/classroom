@@ -35,6 +35,8 @@ A series of team-building activities designed for early-semester engagement and 
 
 Students are placed in groups, given a bin of LEGO&reg; bricks, and a challenge. Results are showcased and voted on to determine a winning team. Past challenges include building the tallest freestanding structure or creating the best artistic design.
 
+![HLO Collaboration](images/hlo-collaboration.png)
+
 #### Blind Build
 
 A communication-focused activity where students are split into groups of builders and callers. Callers receive instructions for a small LEGO&reg; kit, while the builders are given the bricks. Using verbal or limited communication methods, they must work together to complete the build. Results are often entertaining and comical.
