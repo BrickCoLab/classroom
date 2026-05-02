@@ -53,7 +53,8 @@ document.addEventListener("DOMContentLoaded", () => {
             body: JSON.stringify({
                 message: message,
                 name: name,
-                email: email
+                email: email,
+                subject: "BrickCoLab Contact Form Submission"
             })
         });
         if (response.ok) {
