@@ -131,6 +131,9 @@ Reach out to request an activity for your students:
     <button type="submit">Send</button>
 </form>
 
+<div class="components" id="resources">--resources--</div>
+<script src="https://cdn.codeadam.ca/components@1.0.0/components.js"></script>
+
 ---  
 
 <a href="https://brickcolab.com">
@@ -165,5 +168,3 @@ input, textarea {
 }
 
 </style>
-
-<script src="https://cdn.codeadam.ca/components@1.0.0/components.js"></script>
