@@ -164,5 +164,6 @@ input, textarea {
     font-size: 1em;
 }
 
-
 </style>
+
+<script src="https://cdn.codeadam.ca/components@1.0.0/components.js"></script>
