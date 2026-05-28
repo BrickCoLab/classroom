@@ -4,7 +4,7 @@
 <img src="https://cdn.brickcolab.com/images@1.0.0/brickcolab-logo-coloured-horizontal.png" alt="BrickCoLab" height="100" style="margin-bottom: 10px;" />
 
 <div style="position: relative; width: 100%; max-width: 100%; height: 0; padding-bottom: 56.25%; margin-bottom: 20px;">
-    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls poster="images/poster.png">>
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls loop poster="images/poster.png">>
         <source src="videos/demo.mp4" type="video/mp4">
     </video>
 </div>
