@@ -47,6 +47,10 @@ This is a suggested class schedule based on the provided [Prototyping Slide Deck
 | 30:00 | Each group presents their findings. You can use the little circular table at the front of the class to showcase the build. |
 | 10:00 | Close the session. Awards prizes if you have them. |
 
+When piking themes, here are the minifigures:
+
+![Minifigs](images/minifigs.png)
+
 <div class="components" id="resources">--resources--</div>
 <script src="https://cdn.codeadam.ca/components@1.0.0/components.js"></script>
 
