@@ -4,6 +4,8 @@
 
 This activity is good for between four to eight groups of approximately four students.
 
+![HLO Critical Thinking](images/hlo-critical.png) ![HLO Innovation](images/hlo-innovation.png)
+
 ## Preparation
 
 You can use the [Prototyping Slide Deck](https://docs.google.com/presentation/d/1H387RyPTIVO1Q-NpD4R5JsnXWvsPtBGS_8s8nRDAWJ4/edit?usp=sharing) in class. Feel free to copy and customize as needed. 
