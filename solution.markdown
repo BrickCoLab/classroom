@@ -1,12 +1,14 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-# Prototyping Activity Instructions
+[Home](/) / Build a Solution Activity Instrucitons
+
+## Prototyping Activity Instructions
 
 This activity is good for between four to eight groups of approximately four students.
 
 ![HLO Critical Thinking](images/hlo-critical.png) ![HLO Innovation](images/hlo-innovation.png)
 
-## Preparation
+### Preparation
 
 You can use the [Prototyping Slide Deck](https://docs.google.com/presentation/d/1H387RyPTIVO1Q-NpD4R5JsnXWvsPtBGS_8s8nRDAWJ4/edit?usp=sharing) in class. Feel free to copy and customize as needed. 
 
@@ -25,7 +27,7 @@ Provide each group with a separate scenario, for example:
 
 Give the class approximately 60 minutes to build a solution and present their findings. 
 
-## Schedule
+### Schedule
 
 This is a suggested class schedule based on the provided [Prototyping Slide Deck](https://docs.google.com/presentation/d/1H387RyPTIVO1Q-NpD4R5JsnXWvsPtBGS_8s8nRDAWJ4/edit?usp=sharing).
 
