@@ -71,6 +71,8 @@ Hackathons are typically run as a one or two day sessions and can be customized 
 
 A custom-design challenge where students are given a problem and must construct a solution using LEGO&reg; bricks. Examples include designing a library of the future, building a control panel, or exploring solutions to real-world issues like poverty.
 
+> [Build a Solution Activity Instructions](/solution)
+
 ![HLO Critical Thinking](images/hlo-critical.png) ![HLO Innovation](images/hlo-innovation.png)
 
 #### Build, Code, Race
