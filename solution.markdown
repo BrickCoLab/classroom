@@ -51,6 +51,8 @@ When piking themes, here are the minifigures:
 
 ![Minifigs](images/minifigs.png)
 
+From left to right: Batman, Classic, Kijiji, Dungeons & Dragons, Star Wars, Friends, Lord of the Rings, and Harry Potter. 
+
 <div class="components" id="resources">--resources--</div>
 <script src="https://cdn.codeadam.ca/components@1.0.0/components.js"></script>
 
